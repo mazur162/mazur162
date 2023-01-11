@@ -12,5 +12,5 @@
 #### I'm looking for an internship
 
 - 📫 How to reach me: 
-   * **Telegram** : [@mazur162]([https://github.com/mazur162](https://t.me/mazur162))
-   * **E-mail** : [mazur.anastasia162@gmail.com](mailto:mazur.anastasia162@gmail.com)
+   * Telegram : [@mazur162]([https://github.com/mazur162](https://t.me/mazur162))
+   * E-mail : [mazur.anastasia162@gmail.com](mailto:mazur.anastasia162@gmail.com)
