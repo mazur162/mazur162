@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**mazur162/mazur162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm <a href="https://github.com/kseleznyova" target="_blank">Anastasia</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Student from Russia 🇷🇺</h3>
 
-Here are some ideas to get you started:
+- 👩‍💻 I am currently studying at **_Lomonosov Moscow State University_**:
+      **_Faculty of Computational Mathematics and Cybernetics_**
+     _Qualification: Applied Mathematics and Information Science_
+     _Department of Mathematical Statistics_
+- 🌱 I want to develop as a data analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### I'm looking for an internship
+
+- 📫 How to reach me: 
+   * **Telegram** : [@mazur162]([https://github.com/mazur162](https://t.me/mazur162))
+   * **E-mail** : [mazur.anastasia162@gmail.com](mailto:mazur.anastasia162@gmail.com)
