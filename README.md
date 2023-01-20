@@ -5,7 +5,7 @@
 
 - 👩‍💻 I am currently studying at **Lomonosov Moscow State University**:<br />
      _Faculty of Computational Mathematics and Cybernetics_<br />
-     _Qualification: Applied Mathematics and Information Science_<br />
+     _Qualification: Applied Mathematics and Computer Science_<br />
      _Department of Mathematical Statistics_<br />
 - 🌱 I want to develop as a data analyst
 
