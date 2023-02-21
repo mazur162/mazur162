@@ -7,10 +7,11 @@
      _Faculty of Computational Mathematics and Cybernetics_<br />
      _Qualification: Applied Mathematics and Computer Science_<br />
      _Department of Mathematical Statistics_<br />
-- 🌱 I want to develop as a data analyst
+- 🌱 I want to develop as a data analyst / product analyst
 
 #### I'm looking for an internship
 
 - 📫 How to reach me: 
    * Telegram : [@mazur162](https://t.me/mazur162)
    * E-mail : [mazur.anastasia162@gmail.com](mailto:mazur.anastasia162@gmail.com)
+   * LinkedIn : [Mazur Anastasia](https://www.linkedin.com/in/mazur162/)
