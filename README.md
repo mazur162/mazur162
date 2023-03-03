@@ -3,12 +3,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Student from Russia 🇷🇺</h3>
 
-@media screen and (max-width: 1030px) {
-    .img-right {
-        display: flex; /* this declaration */
-    }
-}
-
 - 👩‍💻 I am currently studying at **Lomonosov Moscow State University**:<br />
      _Faculty of Computational Mathematics and Cybernetics_<br />
      _Qualification: Applied Mathematics and Computer Science_<br />
