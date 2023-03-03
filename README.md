@@ -1,6 +1,12 @@
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/mazur162" target="_blank">Anastasia</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"
+@media screen and (max-width: 1030px) {
+    .img-right {
+        display: flex; /* this declaration */
+    }
+}
+/></h1>
 <h3 align="center">Student from Russia 🇷🇺</h3>
 
 - 👩‍💻 I am currently studying at **Lomonosov Moscow State University**:<br />
