@@ -9,7 +9,7 @@
      _Department of Mathematical Statistics_<br />
 - 🌱 I want to develop as a data analyst / product analyst
 
-#### 💛 Analyst Intern at Tinkoff
+#### Analyst Intern at Tinkoff
 
 - 📫 How to reach me: 
    * Telegram : [@mazur162](https://t.me/mazur162)
