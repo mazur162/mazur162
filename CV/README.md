@@ -1,3 +1,6 @@
+# My CV
 
-- [🇷🇺 Резюме на русском языке](CV_rus.pdf)
-- [🇺🇸 Резюме на английском языке](CV_eng.pdf)
+[🇷🇺 CV in Russian](CV_rus.pdf)
+[🇺🇸 CV in English](CV_eng.pdf)
+
+* Created using [LaTex FAANG resume template](https://ru.overleaf.com/latex/templates/faangpath-simple-template/npsfpdqnxmbc).
