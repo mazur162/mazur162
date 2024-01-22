@@ -21,4 +21,4 @@ ________________________________________
 - [Certificates](https://github.com/mazur162/mazur162/tree/main/Certificates)
 - [Pet Projects](https://github.com/mazur162/mazur162/tree/main/Pet%20Projects)
 
-![](https://komarev.com/ghpvc/?mazur162&color=yellow)
+![](https://komarev.com/ghpvc/?username=mazur162&color=yellow)
