@@ -7,7 +7,7 @@
 - 👩‍💻 I am currently studying at *Higher School of Economics* (MSs):<br />
      _Faculty of Computer Science_<br />
      _Program: Data Science_<br />
-- 🎓 Graduated from *Lomonosov Moscow State University** (BS):<br />
+- 🎓 Graduated from *Lomonosov Moscow State University* (BS):<br />
      _Faculty of Computational Mathematics and Cybernetics_<br />
      _Qualification: Applied Mathematics and Computer Science_<br />
      _Department of Mathematical Statistics_<br />
