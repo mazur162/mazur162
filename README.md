@@ -2,7 +2,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/mazur162" target="_blank">Anastasia</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="8%" height="10%"/></h1>
 <h3 align="center">Student from Russia 🇷🇺</h3>
-<h3 align="center">Product Analyst at T-Bank 💛</h3>
 
 - 👩‍💻 I am currently studying at **Higher School of Economics** (MSs):<br />
      _Faculty of Computer Science_<br />
