@@ -3,7 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="8%" height="10%"/></h1>
 <h3 align="center">Student from Russia 🇷🇺</h3>
 
-- 👩‍💻 I am currently studying at **Higher School of Economics** (MSs):<br />
+- 👩‍💻 I am currently studying at **Higher School of Economics** (MS):<br />
      _Faculty of Computer Science_<br />
      _Program: Data Science_<br />
 - 🎓 Graduated from **Lomonosov Moscow State University** (BS):<br />
