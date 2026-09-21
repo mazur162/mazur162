@@ -20,5 +20,5 @@
 ________________________________________
 
 - [My CV](https://github.com/mazur162/mazur162/tree/main/CV)
-- [Certificates](https://github.com/mazur162/mazur162/tree/main/Certificates)
+- [Certificates](https://github.com/mazur162/mazur162/tree/main/Hackatons/Certificates)
 - [Pet Projects](https://github.com/mazur162/mazur162/tree/main/Pet%20Projects)
