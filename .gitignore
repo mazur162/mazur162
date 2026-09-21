@@ -3,3 +3,9 @@
 
 # Ignore ipynb checkpoint files
 .ipynb_checkpoints
+
+# Ignore Python cache and virtualenvs
+__pycache__/
+*.pyc
+.venv/
+.env
